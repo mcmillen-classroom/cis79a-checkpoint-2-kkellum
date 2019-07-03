@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">quizapp</string>
+    
+    <string name= "question_text">placeholder for first question...</string>
+
+    <string name="True_button">True</string>
+    <string name="False_button">False</string>
+
+    <string name="next_button">Next</string>
+    <string name="previous_button">Previous</string>
+    
+    <string name="question_1"> Is Gandalf consinder a White wizard?</string>
+
+    <string name="question_2">Was Lord of the Rings Two Tower the first movie published?</string>
+
+    <string name="question_3">Do elves and Drawfs get on along in Lord of the Rings? </string>
+
+    <string name="question_4">Did Frodo held the Ash Nazg first?</string>
+
+    <string name="question_5">Is Frodo the son of Bilbo baggins?</string>
+
+    <string name="question_6"> Were the Ringwraith looking for Frodo because he had the ring of Ash Nazg? </string>
+    
+    <string name="question_1_hint">Gandalf was able to defeat Saruman who was the strongest wizard alive.</string>
+</resources>
+
